@@ -33,7 +33,7 @@ def ikon(nama, kelas=""):
 
 
 # Public address of the site (GitHub Pages). Change this when moving to a custom domain.
-SITE_URL = "https://izzulhanif1234.github.io/pm-multilink/"
+SITE_URL = "https://izzulhanif1234.github.io/PM-MULTILINK/"
 
 LOGO = '<img class="logo" src="assets/logo.svg" alt="PM Multilink" width="150" height="41">'
 MARK = '<img src="assets/logo-pm.svg" alt="" width="90" height="43">'

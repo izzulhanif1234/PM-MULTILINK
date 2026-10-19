@@ -46,7 +46,7 @@ Nota: menjalankan skrip akan menulis semula fail HTML, jadi masukkan juga maklum
 
 ## Hosting (GitHub Pages)
 
-Website ini live di **https://izzulhanif1234.github.io/pm-multilink/**, terus dari branch `gh-pages` repo ini.
+Website ini live di **https://izzulhanif1234.github.io/PM-MULTILINK/**, terus dari branch `gh-pages` repo ini.
 Setiap perubahan yang di-commit ke `gh-pages` akan live dalam masa 1-2 minit.
 
 Jika bertukar ke domain sendiri, tukar `SITE_URL` dalam `scripts/build.py`, jana semula halaman,
