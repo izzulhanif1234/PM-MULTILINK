@@ -78,6 +78,7 @@ def halaman(fail, tajuk, huraian, isi):
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{tajuk}</title>
   <meta name="description" content="{huraian}">
+  <meta name="google-site-verification" content="JvNhaWAL00iF9Z4iuErxr82IFBIGgescCksZJ8FkdqQ">
   <link rel="canonical" href="{url}">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="PM Multilink">
